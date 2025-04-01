@@ -65,7 +65,5 @@ The application uses simplified orbital mechanics to calculate transfer orbits:
 - 🏹 Hohmann transfer orbits are displayed as ellipses connecting Earth's orbit to the target planet's orbit
 - 📆 The application calculates approximate launch dates and arrival times based on current planetary positions
 
----
 
-👨‍💻 Created by [Your Name] - April 2025
 
