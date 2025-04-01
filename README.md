@@ -4,8 +4,6 @@
 
 The **Solar System Mission Planner** is an interactive Python application that visualizes planetary positions and calculates optimal interplanetary trajectories using Hohmann transfer orbits. This tool helps understand the basics of orbital mechanics and mission planning for space travel between planets.
 
-![🌌 Solar System Visualization](screenshots/solar_system.png)
-
 ## ✨ Features
 
 - **🪐 Accurate Planet Visualization**: Displays the current positions of all planets in the solar system
